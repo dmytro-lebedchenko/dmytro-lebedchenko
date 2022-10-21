@@ -1,16 +1,13 @@
-### Hi there 👋
+## Frontend Developer 🐱‍👤
 
-<!--
-**dmytro-lebedchenko/dmytro-lebedchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ SKILLS ⚡
+- Typescript, JavaScript (ES2015 - 2019) 
+- React, Redux 
+- HTML5, CSS3, Sass (SCSS), BEM, Flexbox, Grid, Bulma
+- FETCH, REST API
+- Photoshop, Figma
+- Git/Github, VS Code, Chrome Developer Tools (incl. React), NPM, Webpack
+- Algorithms
+- Basic OOP understanding
+- Trello, Jira
+- English: Advanced   
